@@ -14,14 +14,14 @@ body {
 h1 {
   margin: 0;
   font-size: 33px;
-  color: #006633;
+  color: #000080;
   padding: 0 10%;
 }
 h3 {
   margin: 0;
   font-size: 17px;
   font-weight: 500;
-  color: #006633;
+  color: #000080;
   padding: 0 10%;
 }
 .container {
@@ -37,10 +37,10 @@ h3 {
 .music-player {
   display: block;
   position: relative;
-  width: 400px;
-  height: 570px;
+  width: 300px;
+  height: 400px;
   margin: auto;
-  margin-top: 6%;
+  margin-top: 23%;
   border-radius: 0 0 10px 10px;
   background-image:url("https://www.ixpap.com/images/2021/07/white-aesthetic-wallpaper-ixpap-5.jpg");
   background-size: cover;
@@ -208,7 +208,7 @@ h3 {
 .mejs__controls .mejs__volume-button {
   position: relative;
   position: absolute !important;
-  top: 70px;
+  top: 30px;
   right: 25%;
   width: 40px;
   height: 40px;
@@ -217,8 +217,8 @@ h3 {
   display: block;
   position: absolute !important;
   position: relative;
-  top: 70px;
-  right: 10%;
+  top: 30px;
+  right: 8%;
   width: 60px;
   height: 4px;
   margin-top: 18px;
